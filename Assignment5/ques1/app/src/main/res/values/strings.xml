@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ques1</string>
+    <string-array name="images">
+        <item>IMAGE</item>
+        <item>IC_BACK</item>
+        <item>IC_FORE</item>
+    </string-array>
+</resources>
